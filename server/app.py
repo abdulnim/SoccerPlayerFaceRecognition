@@ -15,7 +15,7 @@ def hello():
 
 @app.route('/classify_image', methods = ['GET', 'POST'])
 def classify_image():
-    util.initialize_variables()
+    # util.initialize_variables()
     image_data = request.form['image_data']
     # print(image_data)
     prediction = jsonify(util.classify_image(image_data))
