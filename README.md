@@ -1,4 +1,4 @@
-# Soccer Player Face Recognition
+# Face Recognition for Soccer Players
 Face Classification for 5 Football Players using Machine Learning (SVM, Random Forest, Decision Tree)
 
 In this Machine learning project, I classify the following Soccer players,
